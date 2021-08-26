@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ambi-ly
-- 👀 I’m interested in ... #food, #roomporn, #cinematography, #wallstreetbets, #teaching and much more
+- 👀 I’m interested in ... #food, #cozyrooms, #cinematography, #wallstreetbets, #teaching and much more
 - 🌱 I’m currently reading ... Code: The Hidden Language of Computer Hardware and Software
 - 💞️ I’m looking to collaborate on Improving CS Education, Beauty, Infrastructure
 - 📫 How to reach me ... `my_name` at me *`.`* com
